@@ -1,2 +1,2 @@
 # Rent-Space
-The room rent website, built with HTML, CSS, and JavaScript, offers a user-friendly interface for finding rental accommodations. Featuring a clean layout, search functionality, room listings with details,  it provides a seamless experience across devices.
+This project is a responsive website for finding and renting rooms. It features a search bar for easy navigation, room listings with detailed information, and a payment page for transactions. Users can browse through available rooms, view details, and contact owners for more information.
